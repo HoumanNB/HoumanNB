@@ -7,4 +7,5 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HoumanNB&show_icons=true&theme=radical)](https://github.com/HoumanNB/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HoumanNB)](https://github.com/HoumanNB/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HoumanNB&exclude_repo=github-readme-stats,https://github.com/HoumanNB/Data-Sciences-Projects)
+
