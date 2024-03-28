@@ -1,8 +1,8 @@
 ### Hello there 👋
 
-- 🔭 I’m currently working on an game in 6502 assembly (Atari 2600)
-- 🌱 I’m currently learning 6502 Assembly
-- 📫 How to reach me: HoumanNiro@protonmail.com 
+- 🔭 I’m currently working on a game in 6502 assembly (Atari 2600)
+- 🌱 I’m currently learning 6502 Assembly and data science
+- 📫 You can reach me at HoumanNiro@protonmail.com 
 
 <br/><br/>
 
