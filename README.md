@@ -5,3 +5,4 @@
 - 📫 How to reach me: HoumanNiro@protonmail.com 
 - 😄 Pronouns: He/Him
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HoumanNB)](https://github.com/HoumanNB/github-readme-stats)
