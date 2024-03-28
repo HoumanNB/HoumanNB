@@ -5,7 +5,9 @@
 - 📫 How to reach me: HoumanNiro@protonmail.com 
 - 😄 Pronouns: He/Him
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HoumanNB&show_icons=true&theme=dark)](https://github.com/HoumanNB/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HoumanNB&exclude_repo=github-readme-stats,Data-Sciences-Projects)
+---
+#### Status
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HoumanNB&show_icons=true&theme=dark)](https://github.com/HoumanNB/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HoumanNB&exclude_repo=github-readme-stats,Data-Sciences-Projects&theme=dark)
 
 
 
